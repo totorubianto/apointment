@@ -241,7 +241,7 @@ Pasien → Pilih Slot → Backend Validasi → Simpan MongoDB → Wati.io Kirim 
 
 ### Catatan Tambahan
 - **Penyesuaian**:
-  - Jika Anda ingin diagram (misalnya, UML atau flowchart)
+  - UML atau flowchart)
     ```mermaid
     sequenceDiagram
         Pasien->>Frontend: Pilih slot
