@@ -240,10 +240,8 @@ Pasien → Pilih Slot → Backend Validasi → Simpan MongoDB → Wati.io Kirim 
 ---
 
 ### Catatan Tambahan
-- **Format Markdown**: Dokumentasi di atas sudah dalam format `.md`. Anda bisa menyalinnya ke file seperti `doctor-appointment-app.md` dan membukanya di editor seperti VS Code atau platform seperti GitHub untuk tampilan yang rapi.
-- **File Fisik**: Jika Anda ingin saya membantu mengirimkan file .md (misalnya, via email atau cara lain), silakan beri tahu caranya, karena saat ini saya hanya bisa menyediakan teks di sini.
 - **Penyesuaian**:
-  - Jika Anda ingin diagram (misalnya, UML atau flowchart), saya bisa menjelaskan dalam teks atau kode Mermaid untuk Markdown:
+  - Jika Anda ingin diagram (misalnya, UML atau flowchart)
     ```mermaid
     sequenceDiagram
         Pasien->>Frontend: Pilih slot
