@@ -252,5 +252,3 @@ Pasien → Pilih Slot → Backend Validasi → Simpan MongoDB → Wati.io Kirim 
         Backend->>Wati.io: Kirim konfirmasi
         Wati.io->>Pasien: Pesan WhatsApp
     ```
-  - Apakah Anda ingin tambahan seperti mockup UI, pseudocode lebih detail, atau panduan setup GCP?
-- **Konfirmasi**: Apakah dokumentasi ini sudah sesuai, atau ada bagian yang perlu diperbaiki/ditambahkan?
