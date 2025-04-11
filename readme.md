@@ -1,10 +1,3 @@
-
-Tentu saja, saya bisa membuat dokumentasi teknis untuk aplikasi pemesanan janji temu dokter dengan spesifikasi yang Anda inginkan: menggunakan **MongoDB** sebagai database, **Google Cloud Platform (GCP)** untuk infrastruktur server, dan **Redis** untuk caching, dengan tetap mengintegrasikan **Wati.io** untuk WhatsApp API. Saya juga akan menyusunnya dalam format **Markdown (.md)** agar mudah dibaca, diedit, dan digunakan di platform seperti GitHub atau alat dokumentasi lainnya.
-
-Berikut adalah dokumentasi dalam format Markdown. Dokumentasi ini mencakup arsitektur sistem, detail teknis, langkah implementasi, dan integrasi dengan Wati.io, disesuaikan dengan MongoDB, GCP, dan Redis. Jika Anda ingin file .md fisik, Anda bisa menyalin teks di bawah ini ke file dengan ekstensi `.md` (misalnya, `doctor-appointment-app.md`).
-
----
-
 # Dokumentasi Teknis Aplikasi Pemesanan Janji Temu Dokter
 
 ## Pendahuluan
